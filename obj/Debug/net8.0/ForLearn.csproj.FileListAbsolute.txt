@@ -1,0 +1,14 @@
+C:\Users\Green\source\repos\ForLearn\ForLearn\bin\Debug\net8.0\ForLearn.exe
+C:\Users\Green\source\repos\ForLearn\ForLearn\bin\Debug\net8.0\ForLearn.deps.json
+C:\Users\Green\source\repos\ForLearn\ForLearn\bin\Debug\net8.0\ForLearn.runtimeconfig.json
+C:\Users\Green\source\repos\ForLearn\ForLearn\bin\Debug\net8.0\ForLearn.dll
+C:\Users\Green\source\repos\ForLearn\ForLearn\bin\Debug\net8.0\ForLearn.pdb
+C:\Users\Green\source\repos\ForLearn\ForLearn\obj\Debug\net8.0\ForLearn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Green\source\repos\ForLearn\ForLearn\obj\Debug\net8.0\ForLearn.AssemblyInfoInputs.cache
+C:\Users\Green\source\repos\ForLearn\ForLearn\obj\Debug\net8.0\ForLearn.AssemblyInfo.cs
+C:\Users\Green\source\repos\ForLearn\ForLearn\obj\Debug\net8.0\ForLearn.csproj.CoreCompileInputs.cache
+C:\Users\Green\source\repos\ForLearn\ForLearn\obj\Debug\net8.0\ForLearn.dll
+C:\Users\Green\source\repos\ForLearn\ForLearn\obj\Debug\net8.0\refint\ForLearn.dll
+C:\Users\Green\source\repos\ForLearn\ForLearn\obj\Debug\net8.0\ForLearn.pdb
+C:\Users\Green\source\repos\ForLearn\ForLearn\obj\Debug\net8.0\ForLearn.genruntimeconfig.cache
+C:\Users\Green\source\repos\ForLearn\ForLearn\obj\Debug\net8.0\ref\ForLearn.dll
