@@ -28,7 +28,11 @@ namespace StudentManagementSystem
 
         public void AddGrade(string courseName, int score)
         {
-            Grades.Add(new Grade(courseName, score));
+
+            
+             Grades.Add(new Grade(courseName, score));
+                
+
         }
     }
 
