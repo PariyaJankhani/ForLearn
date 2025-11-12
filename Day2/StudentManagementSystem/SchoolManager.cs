@@ -24,5 +24,19 @@ namespace StudentManagementSystem
             
         }
 
+        public void AddStudent(Student student)
+        {
+
+            if ()
+            {
+                Console.WriteLine("Student is exist");
+            }
+            else
+            {
+                students.Add(student);
+
+            }
+        }
+
     }
 }

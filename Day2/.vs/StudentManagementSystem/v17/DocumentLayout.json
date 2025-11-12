@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Green\\source\\repos\\New folder\\ForLearn\\Day2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EBA36122-C86C-4809-9C9A-2BE014E30B16}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\green\\source\\repos\\new folder\\forlearn\\day2\\studentmanagementsystem\\schoolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA36122-C86C-4809-9C9A-2BE014E30B16}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\schoolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EBA36122-C86C-4809-9C9A-2BE014E30B16}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\green\\source\\repos\\new folder\\forlearn\\day2\\studentmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBA36122-C86C-4809-9C9A-2BE014E30B16}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EBA36122-C86C-4809-9C9A-2BE014E30B16}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\green\\source\\repos\\new folder\\forlearn\\day2\\studentmanagementsystem\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBA36122-C86C-4809-9C9A-2BE014E30B16}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBA36122-C86C-4809-9C9A-2BE014E30B16}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\green\\source\\repos\\new folder\\forlearn\\day2\\studentmanagementsystem\\schoolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBA36122-C86C-4809-9C9A-2BE014E30B16}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\schoolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "SchoolManager.cs",
               "DocumentMoniker": "C:\\Users\\Green\\source\\repos\\New folder\\ForLearn\\Day2\\StudentManagementSystem\\SchoolManager.cs",
               "RelativeDocumentMoniker": "StudentManagementSystem\\SchoolManager.cs",
               "ToolTip": "C:\\Users\\Green\\source\\repos\\New folder\\ForLearn\\Day2\\StudentManagementSystem\\SchoolManager.cs",
               "RelativeToolTip": "StudentManagementSystem\\SchoolManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-09T11:39:08.845Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\Green\\source\\repos\\New folder\\ForLearn\\Day2\\StudentManagementSystem\\Student.cs",
               "RelativeDocumentMoniker": "StudentManagementSystem\\Student.cs",
               "ToolTip": "C:\\Users\\Green\\source\\repos\\New folder\\ForLearn\\Day2\\StudentManagementSystem\\Student.cs",
               "RelativeToolTip": "StudentManagementSystem\\Student.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAwCAAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA4wAoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-09T11:37:23.925Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Green\\source\\repos\\New folder\\ForLearn\\Day2\\StudentManagementSystem\\Program.cs",
               "RelativeDocumentMoniker": "StudentManagementSystem\\Program.cs",
               "ToolTip": "C:\\Users\\Green\\source\\repos\\New folder\\ForLearn\\Day2\\StudentManagementSystem\\Program.cs",
               "RelativeToolTip": "StudentManagementSystem\\Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAqwDwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-09T11:25:19.163Z",
               "EditorCaption": ""
